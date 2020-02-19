@@ -6,18 +6,21 @@
     <description>Recent content on oauth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2019 21:23:28 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 09:19:20 +0100</lastBuildDate>
     
 	<atom:link href="https://oauth.how/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>oauth</title>
+      <title>OAuth HOWTO</title>
       <link>https://oauth.how/about/</link>
-      <pubDate>Thu, 03 Oct 2019 21:23:28 +0200</pubDate>
+      <pubDate>Wed, 19 Feb 2020 09:19:20 +0100</pubDate>
       
       <guid>https://oauth.how/about/</guid>
-      <description>TODO</description>
+      <description>OAuth (Open Authorization) is an open standard authorization framework for token-based authorization on the internet.
+But how it works, how to implement it, test it, etc?
+There are already resources that cover extensively the topic like oauth.org / oauth.com with detailed documentation and guides, the idea behind oauth.how is a &amp;ldquo;first steps HOW TO&amp;rdquo;
+Being a broad topic and in the spirit to try to keep things as easy as possible (KISS) please consider contributing to the project, at the bottom of each page you will find a &amp;ldquo;suggest edit link ✍&amp;rdquo;</description>
     </item>
     
     <item>
